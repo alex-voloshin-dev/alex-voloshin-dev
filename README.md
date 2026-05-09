@@ -2,7 +2,6 @@
 
 Helping engineering teams operationalize AI coding agents.
 Author of [ai-assets](https://github.com/alex-voloshin-dev/ai-assets).
-MS CS in progress @ CU Boulder.
 
 ---
 
@@ -25,8 +24,7 @@ matrix.
 
 ### Background
 
-15+ years building production software. Currently formalizing the CS
-foundation through an MS at CU Boulder (in progress, expected 2027).
+15+ years building production software.
 
 ### Find me
 
