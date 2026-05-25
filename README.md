@@ -1,16 +1,16 @@
 # Alex Voloshin
 
 Helping engineering teams operationalize AI coding agents.
-Author of [ai-assets](https://github.com/alex-voloshin-dev/ai-assets).
+Author of [ai-skills](https://github.com/alex-voloshin-dev/ai-skills).
 
 ---
 
 ### What I work on
 
-**Vendor-agnostic agentic-dev tooling.** [ai-assets](https://github.com/alex-voloshin-dev/ai-assets)
+**Vendor-agnostic agentic-dev tooling.** [ai-skills](https://github.com/alex-voloshin-dev/ai-skills)
 is a working playbook of patterns that survived production use across
-Claude Code, Codex, and Windsurf. It ships 26 agents, 52 skills, 17
-eval rubrics with 102 calibration samples, and a tracked parity
+Claude Code, Codex, and Windsurf. It ships 26 agents, 77 skills, 48
+eval rubrics with 288 calibration samples, and a tracked parity
 matrix.
 
 **Three angles I keep returning to:**
@@ -24,11 +24,11 @@ matrix.
 
 ### Background
 
-15+ years building production software.
+17+ years building production software.
 
 ### Find me
 
-- **Code:** here — see [ai-assets](https://github.com/alex-voloshin-dev/ai-assets)
+- **Code:** here — see [ai-skills](https://github.com/alex-voloshin-dev/ai-skills)
 - **Writing:** [voloshin.net](https://voloshin.net) (long-form posts on
   agentic dev patterns, eval methodology, vendor parity)
 - **Discussion:** open a GitHub issue on any repo, or DM on [LinkedIn](https://www.linkedin.com/in/avav25/)
